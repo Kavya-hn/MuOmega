@@ -1,2 +1,0 @@
-# MuOmega
-Kappa
